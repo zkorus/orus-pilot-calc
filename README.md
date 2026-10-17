@@ -1,6 +1,6 @@
 # orus-pilot-calc
 
-> **Temporary.** This repository is the provider in the pilot of [orus](https://github.com/zkbox/orus), a framework
+> **Temporary.** This repository is the provider in the pilot of [orus](https://github.com/zkorus/orus), a framework
 > for repositories that work with AI agents. It will be deleted when the pilot ends.
 
 A tiny calculator library.
@@ -17,7 +17,7 @@ subtract(5, 3); // 2
 From a release tag:
 
 ```sh
-npm install github:zkbox/orus-pilot-calc#v0.1.0
+npm install github:zkorus/orus-pilot-calc#v0.1.0
 ```
 
 ## Develop
